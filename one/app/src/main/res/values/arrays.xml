@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="r_count">
+        <item>10 문제</item>
+        <item>20 문제</item>
+        <item>30 문제</item>
+        <item>무제한</item>
+    </string-array>
+
+    <string-array name="q_type">
+        <item>AB1E1A</item>
+        <item>AB1E2A</item>
+        <item>ABC1E1A</item>
+        <item>Order</item>
+        <item>Between</item>
+        <item>After</item>
+    </string-array>
+
+    <string-array name="sel_KP">
+        <item>시기</item>
+        <item>인물</item>
+    </string-array>
+
+    <string-array name="sel_EC">
+        <item>사건</item>
+        <item>문화재</item>
+    </string-array>
+
+    <string-array name="sel_E">
+        <item>사건</item>
+    </string-array>
+
+    <string-array name="sel_K">
+        <item>시기</item>
+    </string-array>
+
+    <string-array name="sel_C">
+        <item>문화재</item>
+    </string-array>
+
+
+</resources>
