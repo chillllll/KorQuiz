@@ -16,4 +16,4 @@ ResultList.java //문제풀이 결과
 ResultView.java //문제 해설
 SplashActivity.java //로딩 화면
 
-#korquizDB  : 한국사 문제자료 데이터베이스 덤프파일
+#korquizDB.sql  : MySQL로 작성한 한국사 문제자료 데이터베이스 덤프파일
