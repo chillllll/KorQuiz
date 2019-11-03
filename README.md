@@ -21,3 +21,5 @@ ResultView.java //문제 해설
 SplashActivity.java //로딩 화면
 
 3.korquizDB.sql  : MySQL로 작성한 한국사 문제자료 데이터베이스 덤프파일
+
+4.문화재 사진     : FTP서버로 애플리케이션에 전송할 사진
